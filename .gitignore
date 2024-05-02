@@ -1,0 +1,12 @@
+node_modules
+package-lock.json
+dist/
+DS_Stores
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+__MACOSX/

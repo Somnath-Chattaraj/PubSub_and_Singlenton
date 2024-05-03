@@ -1,4 +1,4 @@
-To start follow the guidelines
+# To start follow the guidelines
 
 ```
 
@@ -7,7 +7,7 @@ To start follow the guidelines
   node dist/index.js
 
 ```
-Description
+# Description
 
 This is basically a stateful backend server. It create a `in memory cached` and can also be use to store the `state` of the game in a real-time game. It also apply `stickness` i.e.
 make sure the user who is interested in a specific room get connect to a specific server. Here it is basically a system where the user can subscribe to the information they want. `For example: feed of the stock (prices)`
